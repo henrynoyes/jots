@@ -3,7 +3,15 @@
 > [!note]
 > Many of these tools are written in Rust. Installing [cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) is recommended for package management.
 
-## CLI substitutes
+## CLI
+
+#### [`fzf`](https://github.com/junegunn/fzf)
+
+Description: A fuzzy finder for command history, files, and processes.
+
+Installation: `[brew|sudo apt] install fzf`
+
+Usage: `fzf path/`
 
 #### [`ripgrep`](https://github.com/BurntSushi/ripgrep)
 
@@ -15,7 +23,7 @@ Usage: `rg "pattern" path/`
 
 #### [`bat`](https://github.com/sharkdp/bat)
 
-Description: A faster `cat` with synatx highlighting and Git integration.
+Description: A faster `cat` with syntax highlighting and Git integration.
 
 Installation: `cargo install bat`
 
@@ -34,11 +42,20 @@ Usage: `dust path/`
 A modern package manager built on `conda` that supports automatic lockfiles, native PyPI integration, and project management tools. Uses [uv](https://docs.astral.sh/uv/) under the hood for blazing PyPI solving.
 
 To install run,
-```
+```shell
 curl -fsSL https://pixi.sh/install.sh | sh
 ```
 
 For Python-only projects, a standalone [uv](https://docs.astral.sh/uv/) configuration can also be sufficient.
+
+## [Ruff](https://docs.astral.sh/ruff/)
+
+A modern Python linter and formatter. Written by the [Astral](https://astral.sh/) team, so has first-party integration with [uv](https://docs.astral.sh/uv/),
+```shell
+uv add --dev ruff
+```
+
+Can act as a drop-in replacement for [Black](https://docs.astral.sh/ruff/faq/#how-does-ruffs-formatter-compare-to-black) and [Flake8](https://docs.astral.sh/ruff/faq/#how-does-ruffs-linter-compare-to-flake8). Easily configurable as a [pre-commit](https://docs.astral.sh/ruff/integrations/#pre-commit) or [action](https://docs.astral.sh/ruff/integrations/#github-actions).
 
 ## Terminal Config
 
@@ -53,3 +70,5 @@ See [my dotfiles](https://github.com/henrynoyes/dotfiles) for more info
 ## Resources
 
 [Oxidize Your Command Line | No Boilerplate](https://www.youtube.com/watch?v=rWMQ-g2QDsI)
+
+[Modern Linux Tools | ikrima.dev](https://ikrima.dev/dev-notes/linux/linux-modern-tools/)

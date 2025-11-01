@@ -40,3 +40,12 @@ https://downgit.github.io
 https://github.com/tw93/Mole
 
 https://github.com/rerun-io/rerun
+
+https://github.com/Hammerspoon/hammerspoon
+
+https://github.com/seatedro/glimpse
+
+https://github.com/typst/typst
+
+https://github.com/HandBrake/HandBrake
+

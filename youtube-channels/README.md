@@ -16,6 +16,8 @@
 - [No Boilerplate](https://www.youtube.com/@NoBoilerplate)
 - [isak](https://www.youtube.com/@isak)
 - [Acerola](https://www.youtube.com/@Acerola_t)
+- [Deadlock](https://www.youtube.com/@DeadlockCode)
+- [Ten Minute Physics](https://www.youtube.com/@TenMinutePhysics)
 
 ## Makers
 - [Works By Design](https://www.youtube.com/@worksbydesign)*
@@ -46,3 +48,4 @@
 - [CMU Robotic Exploration Lab](https://www.youtube.com/@roboticexplorationlab3724)
 - [Robot Locomotion Group](https://www.youtube.com/@RobotLocomotionGroup)
 - [MIT Robotics Seminar](https://www.youtube.com/@MITRoboticsSeminar)
+- [Model-Based Optimization](https://www.youtube.com/@tcoptrob)
