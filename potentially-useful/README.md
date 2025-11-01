@@ -49,3 +49,5 @@ https://github.com/typst/typst
 
 https://github.com/HandBrake/HandBrake
 
+https://olmocr.allenai.org
+
