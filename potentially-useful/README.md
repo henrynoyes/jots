@@ -51,3 +51,7 @@ https://github.com/HandBrake/HandBrake
 
 https://olmocr.allenai.org
 
+https://github.com/tonyantony300/alt-sendme
+
+https://github.com/charmbracelet/glow
+

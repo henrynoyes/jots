@@ -36,6 +36,7 @@
 - [bitluni](https://www.youtube.com/@bitluni)
 - [matthew lim](https://www.youtube.com/@matthewlim88)
 - [Ben Makes Everything](https://www.youtube.com/@benmakeseverything)
+- [Visual Thinker](https://www.youtube.com/@Visual_Thinker_yt)
 
 ## Research
 - [Disney Research Hub](https://www.youtube.com/@DisneyResearchHub)

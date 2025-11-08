@@ -57,6 +57,17 @@ uv add --dev ruff
 
 Can act as a drop-in replacement for [Black](https://docs.astral.sh/ruff/faq/#how-does-ruffs-formatter-compare-to-black) and [Flake8](https://docs.astral.sh/ruff/faq/#how-does-ruffs-linter-compare-to-flake8). Easily configurable as a [pre-commit](https://docs.astral.sh/ruff/integrations/#pre-commit) or [action](https://docs.astral.sh/ruff/integrations/#github-actions).
 
+## [NetBird](https://netbird.io/)
+
+A Zero Trust Networking platform for simple and secure remote access. Uses [WireGuard](https://github.com/wireguard) under the hood. Basically FOSS Tailscale.
+
+To install run,
+```shell
+curl -fsSL https://pkgs.netbird.io/install.sh | sh
+```
+
+The free tier allows up to 5 users and 100 machines. [This](https://netbird.io/knowledge-hub/using-ssh-to-secure-remote-access) is a good guide to set up remote SSH.
+
 ## Terminal Config
 
 Emulator - [Kitty](https://sw.kovidgoyal.net/kitty/)
