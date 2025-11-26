@@ -1,7 +1,7 @@
 # Useful development tools
 
 > [!note]
-> Many of these tools are written in Rust. Installing [cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) is recommended for package management.
+> Many of these tools are written in Rust. Installing [cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html)/[cargo-binstall](https://github.com/cargo-bins/cargo-binstall) is recommended for package management.
 
 ## CLI
 
@@ -17,7 +17,7 @@ Usage: `fzf path/`
 
 Description: A faster `grep` with better defaults and Git integration.
 
-Installation: `cargo install ripgrep`
+Installation: `cargo binstall ripgrep`
 
 Usage: `rg "pattern" path/`
 
@@ -25,7 +25,7 @@ Usage: `rg "pattern" path/`
 
 Description: A faster `cat` with syntax highlighting and Git integration.
 
-Installation: `cargo install bat`
+Installation: `cargo binstall bat`
 
 Usage: `bat filename`
 
@@ -33,9 +33,17 @@ Usage: `bat filename`
 
 Description: A faster `du` with better defaults and tree visualization.
 
-Installation: `cargo install du-dust`
+Installation: `cargo binstall du-dust`
 
 Usage: `dust path/`
+
+#### [`meread`](https://github.com/sermuns/MEREAD)
+
+Description: Locally preview GitHub-flavoured Markdown files
+
+Installation: `cargo binstall meread`
+
+Usage: `meread README.md`
 
 ## [Pixi](https://pixi.sh/latest/)
 

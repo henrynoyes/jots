@@ -55,3 +55,9 @@ https://github.com/tonyantony300/alt-sendme
 
 https://github.com/charmbracelet/glow
 
+https://github.com/homeport/termshot
+
+https://github.com/excalidraw/excalidraw and https://github.com/Prayag2/drawy
+
+https://www.getzola.org/
+
