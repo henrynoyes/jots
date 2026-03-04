@@ -7,4 +7,4 @@ A collection of short markdown files, called *jots*. These jots contain a menage
 - [tooling](tooling) - Some useful development tools
 - [youtube-channels](youtube-channels) - YouTube channels I enjoy watching
 - [potentially-useful](potentially-useful) - Things that may come in handy
-- [dev-news](dev-news) - The newest lines of code
+- [blogs](blogs) - Interesting blogs

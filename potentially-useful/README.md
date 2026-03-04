@@ -61,3 +61,11 @@ https://github.com/excalidraw/excalidraw and https://github.com/Prayag2/drawy
 
 https://www.getzola.org/
 
+https://github.com/neurosnap/zmx
+
+https://marimo.io/
+
+https://github.com/zensical/zensical
+
+https://github.com/gitbutlerapp/gitbutler
+

@@ -10,6 +10,8 @@
 - [Polylog](https://www.youtube.com/@polylog)
 - [Spectral Collective](https://www.youtube.com/@SpectralCollective)
 - [Welch Labs](https://www.youtube.com/@WelchLabsVideo)
+- [Jia-Bin Huang](https://www.youtube.com/@jbhuang0604)
+- [Probably Optimal](https://www.youtube.com/@ProbablyOptimal)
 
 ## Programming
 - [Sebastian Lague](https://www.youtube.com/@SebastianLague)* - the Bob Ross of computer graphics
@@ -37,6 +39,7 @@
 - [matthew lim](https://www.youtube.com/@matthewlim88)
 - [Ben Makes Everything](https://www.youtube.com/@benmakeseverything)
 - [Visual Thinker](https://www.youtube.com/@Visual_Thinker_yt)
+- [Inheritance Machining](https://www.youtube.com/@InheritanceMachining)
 
 ## Research
 - [Disney Research Hub](https://www.youtube.com/@DisneyResearchHub)
