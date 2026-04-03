@@ -39,11 +39,19 @@ Usage: `dust path/`
 
 #### [`meread`](https://github.com/sermuns/MEREAD)
 
-Description: Locally preview GitHub-flavoured Markdown files
+Description: Locally preview GitHub Flavored Markdown files
 
 Installation: `cargo binstall meread`
 
 Usage: `meread README.md`
+
+#### [`glimpse`](https://github.com/seatedro/glimpse)
+
+Description: Easily build LLM context on the clipboard
+
+Installation: `cargo install glimpse`
+
+Usage: `glimpse path/`
 
 ## [Pixi](https://pixi.sh/latest/)
 
@@ -75,6 +83,12 @@ curl -fsSL https://pkgs.netbird.io/install.sh | sh
 ```
 
 The free tier allows up to 5 users and 100 machines. [This](https://netbird.io/knowledge-hub/using-ssh-to-secure-remote-access) is a good guide to set up remote SSH.
+
+## [zmx](https://zmx.sh/)
+
+Simple and lightweight session persistence. The attach/detach functionality from `tmux` without the window management.
+
+Install via `brew install neurosnap/tap/zmx` or the [pre-compiled binaries](https://github.com/neurosnap/zmx?tab=readme-ov-file#binaries).
 
 ## Terminal Config
 

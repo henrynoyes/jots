@@ -12,6 +12,7 @@
 - [Welch Labs](https://www.youtube.com/@WelchLabsVideo)
 - [Jia-Bin Huang](https://www.youtube.com/@jbhuang0604)
 - [Probably Optimal](https://www.youtube.com/@ProbablyOptimal)
+- [Depth First](https://www.youtube.com/@depth-first)
 
 ## Programming
 - [Sebastian Lague](https://www.youtube.com/@SebastianLague)* - the Bob Ross of computer graphics
