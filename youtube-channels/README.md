@@ -41,6 +41,8 @@
 - [Ben Makes Everything](https://www.youtube.com/@benmakeseverything)
 - [Visual Thinker](https://www.youtube.com/@Visual_Thinker_yt)
 - [Inheritance Machining](https://www.youtube.com/@InheritanceMachining)
+- [Dan Gelbart](https://www.youtube.com/@dgelbart)
+- [Made By Dennis](https://www.youtube.com/@MadeByDennis)
 
 ## Research
 - [Disney Research Hub](https://www.youtube.com/@DisneyResearchHub)

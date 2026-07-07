@@ -69,3 +69,8 @@ https://github.com/zensical/zensical
 
 https://github.com/gitbutlerapp/gitbutler
 
+https://docs.ntfy.sh/
+
+https://github.com/tamnd/kage
+
+https://github.com/brandonyoungdev/tldx
